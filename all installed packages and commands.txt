@@ -1,2 +1,5 @@
 npm install react-icons
 npm install tailwind-merge
+npm install @supabase/auth-helpers-nextjs
+npm install @supabase/auth-helpers-react
+npm install stripe
